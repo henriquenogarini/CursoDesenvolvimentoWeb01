@@ -1,3 +1,4 @@
-Neste projeto aprendemos realizamos a criação de uma calculadora que calcula o valor da gorjeta.
-Obtemos as informações da conta e o valor da gorjeta em "%", exibindo o valor total no final.
-Também é demonstrado como funciona a maneira de calcular com += ou -=.
+Neste projeto aprendemos a utilizar as listas em HTML, as quais temos :
+<ul></ul> -- Lista não ordenada
+<ol></ol> -- Lista ordenada
+<dl> (<dt></dt>) -- O item || (<dd></dd> -- A descrição do item) </dl> -- Lista de descrição
