@@ -1,0 +1,1 @@
+Neste projetos realizamos o link do arquivo JS com o HTML e também entendemos sobre variáveis e como concatenalas.

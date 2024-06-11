@@ -1,0 +1,1 @@
+Neste projeto aprendemos a alterar o css do website, alterando o background da página e fontes, tamanhos e cores de escritas.

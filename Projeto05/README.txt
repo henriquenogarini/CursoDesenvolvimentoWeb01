@@ -1,0 +1,2 @@
+Neste projeto aprendemos a usar utilizar o innerHTML com getElemmentById, retornando o input para o html e também concatenando variáveis string.
+OBS : É importante salientar que o getElemmentById do innerHTMl só funcionará se o script tiver sido lido após a elemento com Id imposta.

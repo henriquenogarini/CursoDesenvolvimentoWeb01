@@ -1,0 +1,1 @@
+Neste projeto aprendemos a usar o InputData, criando prompt e também convertendo string para número.
